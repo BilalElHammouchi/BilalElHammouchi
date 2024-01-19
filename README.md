@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal El Hammouchi</h1>
 <h3 align="center">Computers sparked my childhood wonder, and that curiosity now fuels my Master's journey in data science and intelligent systems at Mohammed Premier University. My native tongue is Tamazight, I'm also fluent in English and Arabic, and am capable of carrying a conversation in French and German. But it's AI's potential to shape our world that truly sparks my passion. From healthcare to sustainability, I envision its responsible application, and I strive to contribute my data-driven skills and multilingual bridge-building abilities to make a positive impact.</h3>
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Transformers**
 
 - 📫 How to reach me **bilalelhammouchi@hotmail.com**
 
