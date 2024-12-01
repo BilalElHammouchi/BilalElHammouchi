@@ -1,4 +1,8 @@
-<h4 align="left">Greetings 👋! My name is Bilal El Hammouchi and I'm a data scientist from Morocco</h4>
+<h4 align="center">Greetings 👋! My name is Bilal El Hammouchi and I'm a data scientist from Morocco</h4>
+
+###
+
+<p align="center">Masters graduate in Data Science and Intelligent Systems. Bachelors graduate in Mathematics and Computer Science. I also like to build stuff.</p>
 
 ###
 
@@ -10,6 +14,9 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611gw1xcx5a34zu6vglkesuvf0280pcmd56dcd38ve7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -112,10 +119,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611gw1xcx5a34zu6vglkesuvf0280pcmd56dcd38ve7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
