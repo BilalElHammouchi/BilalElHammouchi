@@ -1,4 +1,4 @@
-<h4 align="center">Greetings 👋! My name is Bilal El Hammouchi and I'm a data scientist from Morocco</h4>
+<h4 align="center">Greetings 👋! My name is Bilal El Hammouchi and I'm an engineer from Morocco</h4>
 
 ###
 
